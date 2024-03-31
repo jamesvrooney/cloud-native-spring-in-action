@@ -1,6 +1,7 @@
-package com.jamesvrooney.repository;
+package com.jamesvrooney.persistence;
 
 import com.jamesvrooney.domain.Book;
+import com.jamesvrooney.repository.BookRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.Map;
